@@ -11,7 +11,7 @@
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
 | **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/45) | Intermediário (A2 -> B1) |
-| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Base ENEM / Pré-Cálculo |
+| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Base ciência de dados - Pré-Cálculo |
 | **🐍 Python para Dados** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
 | **🟠 Física & Química** | ![Progress](https://geps.dev/progress/20) | Cinemática & Atomística |
 
@@ -32,9 +32,9 @@
 > **Última Atualização:** 30 de Janeiro de 2026
 
 ### 📅 Janeiro 2026
-- [x] Criação do Planejamento 35 Semanas (Fernanda Pessoa + Exatas).
+- [x] Criação do Planejamento 35 Semanas (Francês e Cálculo).
 - [x] Estruturação do ecossistema de estudos no GitHub.
-- [ ] Revisão completa de **Funções e Gráficos** para o ENEM.
+- [ ] Revisão completa de **Funções e Gráficos**
 - [ ] Vocabulário técnico de TI em francês (Les bases de l'informatique).
 
 ---
