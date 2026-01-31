@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002395&height=200&section=header&text=Mon%20Chemin%20vers%20la%20France%20🇫🇷&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=002395&height=200&section=header&text=Road%20to%20Data%20la%20Science%20🇫🇷&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002395&center=true&vCenter=true&width=435&lines=Objectif:+Licence+3+Data+Science;Study+Routine:+12x36+Shift;French+Level:+Target+B2/C1;STEM+for+UFABC+and+France)](https://git.io/typing-svg)
 </div>
@@ -10,7 +10,7 @@
 
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
-| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/15) | Básico (12 -> A2) |
+| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/15) | Básico (A2 -> A2) |
 | **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Base ciência de dados - Pré-Cálculo |
 | **🐍 Python para Dados** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
 | **🟠 Física & Química** | ![Progress](https://geps.dev/progress/20) | Cinemática & Atomística |
