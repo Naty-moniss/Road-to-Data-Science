@@ -29,13 +29,13 @@
 
 ## 📖 Diário de Bordo / Journal de Bord
 
-> **Última Atualização:** 30 de Janeiro de 2026
+> **Última Atualização:** 02 de Fevereiro de 2026
 
-### 📅 Janeiro 2026
-- [x] Criação do Planejamento 35 Semanas (Francês e Cálculo).
-- [x] Estruturação do ecossistema de estudos no GitHub.
-- [ ] Revisão completa de **Funções e Gráficos**
-- [ ] Vocabulário técnico de TI em francês (Les bases de l'informatique).
+### 📅 Fevereiro 2026
+- [x] Inicio dos estudos de cálculo (básico) e Francês 
+- [x] Submeter últimos projetos completos para o git
+- [ ] Revisão completa de Matemática básica
+- [ ] Treinar uma vez por dia a fala em francês
 
 ---
 
