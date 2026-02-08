@@ -8,14 +8,14 @@
 
 ---
 
-## 📅 Semaine 05 (01/02 - 07/02)
-**Foco:** Matemática Básica & Iniciar primeiras aulas base do francês.
+## 📅 Semaine 05 (08/02 - 14/02)
+**Foco:** Matemática Básica & Iniciar finalizar primeiro bloco de aulas básicas do Francês.
 
-- [ ] **01/02 (Dia A):** Operações básicas e Potenciação + Aula 01 de Francês.
-- [ ] **02/02 (Dia B):** Trabalho 12x36 + episódio de série *Lupin* (15 min).
-- [ ] **03/02 (Dia A):** Redação (Estrutura FP) + Aula 2 e 3 de francês
-- [ ] **04/02 (Dia B):** Trabalho 12x36 + Revisão de vocabulário no Anki.
-- [ ] **05/02 (Dia A):** Expressões Numéricas + Literatura (Barroco).
+- [ ] **08/02 (Dia A):** Aula de francês e organização do conteúdo da semana
+- [ ] **09/02 (Dia B):** Iniciar curso Teoria musical e Trabalhar no github
+- [ ] **10/02 (Dia A):** Redação (Estrutura FP) + Aula 4 e 5 de francês
+- [ ] **11/02 (Dia B):** Trabalho 12x36 + Ler e anotar vocabulário em Francês
+- [ ] **12/02 (Dia A):** Aula de teoria Teoria Musical + Literatura (Barroco).
 
 ---
 
