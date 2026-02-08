@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=200&section=header&text=Road%20to%20The%20Audio%20Engeenering%20🇫🇷&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002395&center=true&vCenter=true&width=435&lines=Objectif:+Licence+3+Data+Science;Study+Routine:+12x36+Shift;French+Level:+Target+B2/C1;STEM+for+Music+Engeenering)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=002395&center=true&vCenter=true&width=435&lines=Objectif:+Licence+3+Audio+Engeenering;Study+Routine:+12x36+Shift;French+Level:+Target+B2/C1;STEM+for+Music+Engeenering)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -10,10 +10,10 @@
 
 | Categoria | Progresso | Nível Atual |
 | :--- | :---: | :--- |
-| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/15) | Básico (A2 -> A2) |
-| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Base ciência de dados - Pré-Cálculo |
-| **🐍 Python para Dados** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
-| **🟠 Física & Química** | ![Progress](https://geps.dev/progress/20) | Cinemática & Atomística |
+| **🇫🇷 Francês (DELF/TCF)** | ![Progress](https://geps.dev/progress/15) | Básico (A1 -> A2) |
+| **🔴 Matemática (STEM)** | ![Progress](https://geps.dev/progress/30) | Logaritmo - Álgebra Linear |
+| **🐍 Python e C++** | ![Progress](https://geps.dev/progress/60) | Análise Exploratória |
+| **🟠 Física & Música** | ![Progress](https://geps.dev/progress/20) | Ondas Sonoras & Teoria Musical |
 
 ---
 
@@ -29,10 +29,10 @@
 
 ## 📖 Diário de Bordo / Journal de Bord
 
-> **Última Atualização:** 02 de Fevereiro de 2026
+> **Última Atualização:** 08 de Fevereiro de 2026
 
 ### 📅 Fevereiro 2026
-- [x] Inicio dos estudos de cálculo (básico) e Francês 
+- [x] Inicio dos estudos de Teoria Musical (básico) e Francês 
 - [x] Submeter últimos projetos completos para o git
 - [ ] Revisão completa de Matemática básica
 - [ ] Treinar uma vez por dia a fala em francês
